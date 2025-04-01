@@ -10,10 +10,10 @@
 +------------------------------------+<br> 			
 CLIENTE<br> 							
 +------------------------------------+<br>			
-- NOME: STRING<br>  							               
-- EMAIL: STRING<br>  						               			   		
+-NOME: STRING							               
+-EMAIL: STRING<br>					               			   		
 +------------------------------------+<br>							
-	+ REALIZARPEDIDO()<br>					            	
++REALIZARPEDIDO()<br>				            	
 +------------------------------------+ <br>      
 CLIENTE 1===0 (FALSE)<br>                          
 CLIENTE 1===1 (TRUE)<br>                    
@@ -22,19 +22,19 @@ CLIENTE 1===1 (TRUE)<br>
 +------------------------------------+<br>
 PEDIDO<br>
 +------------------------------------+<br>
-- DATA: DATE<br>
-- STATUS: STRING<br>
+-DATA: DATE<br>
+-STATUS: STRING<br>
 +------------------------------------+<br>
-- CONFIRMAR()<br>
+-CONFIRMAR()<br>
 <br>
 <br>
 +------------------------------------+<br>			
 SALA<br>
 +------------------------------------+<br>			
-- LUGAR: STRING	<br>							
-- BLOCO: STRING<br>
-- DATA: STRING<br>
-- DISPONÍVEL: STRING<br>				  		
+-LUGAR: STRING	<br>							
+-BLOCO: STRING<br>
+-DATA: STRING<br>
+-DISPONÍVEL: STRING<br>				  		
 +------------------------------------+								
 	+ RESERVAR LUGAR<br>							
 +------------------------------------+<br>				
